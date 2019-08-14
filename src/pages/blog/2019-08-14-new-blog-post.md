@@ -3,7 +3,7 @@ templateKey: blog-post
 title: New blog post!
 date: 2019-08-14T18:25:08.657Z
 description: 'Hey guys and welcome to my first blog post! Hope you enjoy it :)'
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blog-index.jpg
 tags:
   - Post Blog
